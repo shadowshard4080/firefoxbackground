@@ -14,4 +14,5 @@
         width: 100vw ;
         height: 100vh ;
     }
+    .logo  {background-image: url(img/firefox.png) !important; }
 }
